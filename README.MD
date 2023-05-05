@@ -1,6 +1,6 @@
-# Simple ChatGPT Terminal Client
+# GPT-reader - a simple GPT-4 Terminal Client
 
-This repository contains a simple terminal-based client for having conversations with OpenAI's ChatGPT, written in Python. It provides an easy-to-use interface to interact with different models like GPT-4, GPT-4-32K, and GPT-3.5-turbo.
+This repository contains a simple terminal-based client for having conversations with OpenAI's GPT-4, written in Python. It provides an easy-to-use interface to interact with different models like GPT-4, GPT-4-32K, and GPT-3.5-turbo.
 
 ## Features
 
