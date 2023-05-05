@@ -13,7 +13,7 @@ This repository contains a simple terminal-based client for having conversations
 ## Installation
 
 1. Clone the repository:
-`git clone https://github.com/your_username/simple-chatgpt-terminal-client.git`
+`git clone https://github.com/furnivall/GPT-reader.git`
 
 2. Install the required dependencies:
 `pip install -r requirements.txt`
